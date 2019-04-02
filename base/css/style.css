@@ -1,0 +1,47 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    min-width: 1200px;
+    color: #333333;
+    display: flex;
+    flex-direction: column;
+
+    align-items: stretch;
+    box-sizing: border-box;
+}
+
+body * {
+    box-sizing: border-box;
+}
+
+/*Header*/
+
+.main-header {
+    background-color: #202020;
+    min-height: 65px;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+}
+
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+/*Main*/
+
+/*Footer*/
+
+.main-footer {
+    background-color: #202020;
+    min-height: 65px;
+    color: #ffffff;
+}
+
